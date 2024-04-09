@@ -118,7 +118,7 @@
   </div>
   <div style="display:none">
     <video style="display:block; margin: 0 auto;" class="responsive-video" width="1280" height="720" autoplay="autoplay" controls muted>
-      <source src="static/gaming-accessories.jpg" type="video/mp4">
+      <source src="static/FROST Gaming PC.mp4" type="video/mp4">
     </video>
   </div>
 
